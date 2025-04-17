@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://img.freepik.com/free-vector/app-development-banner_33099-1720.jpg?t=st=1744890734~exp=1744894334~hmac=1e5f237dfec7f43c2f93cc665111261cab011a3fac93f56fa60cfee8a385a657&w=1380))]
 <h1 align="center">Hi 👋, I'm Wazid Hossain</h1>
 <h3 align="center">A passionate Flutter and Web Developer dedicated to building seamless, high-performance applications.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
