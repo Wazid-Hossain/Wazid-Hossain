@@ -6,7 +6,10 @@
 <h3 align="center">🚀 Flutter Developer | 🌐 Web Developer | 💻 Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=I+build+beautiful+Flutter+apps.;I+create+responsive+web+UIs.;Cross-platform+magic+with+Dart!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=420&lines=Flutter+App+Developer;Responsive+Web+UI+Designer;Cross-platform+with+Dart" alt="Typing SVG" />
+
+
+
 </p>
 
 ---
@@ -37,7 +40,7 @@
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,git,github,linux,postman)](https://skillicons.dev)
 
 ---
-
+### 📈 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wazid-hossain&show_icons=true&theme=radical" width="48%" />
@@ -50,7 +53,7 @@
 
 ---
 
-
+### 🏆 Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=wazid-hossain&theme=darkhub&no-frame=true&column=6&margin-w=10" />
