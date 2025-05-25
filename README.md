@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Wazid-Hossain](https://github.com/Wazid-Hossain)
 
-- 💬 Ask me about **Flutter, Dart**
+- 💬 Ask me about **Android and Native Cross Platfrom Apps Like "Web,Windows,IOS,Andriod etc**
 
 - 📫 How to reach me **mwh.wajid96@gmail.com**
 
