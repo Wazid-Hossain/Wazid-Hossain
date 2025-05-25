@@ -1,5 +1,4 @@
-<a href="https://app.daily.dev/wazidhossain"><img src="https://api.daily.dev/devcards/v2/3YdCtvoPXvJ8EgS9GySwi.png?r=v6m&type=wide" width="800" alt="Wazid hossain's Dev Card"/></a>
-<h1 align="center">Hi 👋, I'm Wazid Hossain</h1>
+<a href="https://app.daily.dev/wazidhossain"><img src="https://api.daily.dev/devcards/v2/3YdCtvoPXvJ8EgS9GySwi.png?type=wide&r=1rc" width="800" alt="Wazid hossain's Dev Card"/></a><h1 align="center">Hi 👋, I'm Wazid Hossain</h1>
 <h3 align="center">A passionate Flutter and Web Developer dedicated to building seamless, high-performance applications.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
