@@ -1,6 +1,4 @@
-<a href="https://app.daily.dev/wazidhossain">
-  <img src="https://api.daily.dev/devcards/v2/3YdCtvoPXvJ8EgS9GySwi.png?type=wide&r=1rc" width="100%" alt="Wazid Hossain's Dev Card"/>
-</a>
+
 
 <h1 align="center">Hi there 👋, I'm Wazid Hossain</h1>
 <h3 align="center">🚀 Flutter Developer | 🌐 Web Developer | 💻 Tech Enthusiast</h3>
@@ -11,6 +9,10 @@
 
 
 </p>
+
+<a href="https://app.daily.dev/wazidhossain">
+  <img src="https://api.daily.dev/devcards/v2/3YdCtvoPXvJ8EgS9GySwi.png?type=wide&r=1rc" width="100%" alt="Wazid Hossain's Dev Card"/>
+</a>
 
 ---
 
